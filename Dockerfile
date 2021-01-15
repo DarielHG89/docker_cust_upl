@@ -4,7 +4,7 @@
 
 
 # Set the base image to Ubuntu
-#FROM busybox
+FROM busybox
 
 # url to download ex: ADD https://dl.dropboxusercontent.com /datosdescargados/
 ADD https://dl.dropboxusercontent.com/s/1g6tz4vl33p3k73/El%20Sistema%20Solar%20para%20ni%C3%B1os%20%20Canciones%20de%20Planetas%20%20%2BRecopilaci%C3%B3n%20%20Pinkfong%20Canciones%20Infantiles_v%281%29.mp4?dl=0 /datosdescargados/ElSistemaSolarparaniñosCancionesdePlanetas
@@ -31,4 +31,4 @@ ADD https://dl.dropboxusercontent.com/s/hgfg5fvfc52tkop/Planetas%20y%20Cuerpo%20
 #
 #ADD http://dl.delivery.mp.microsoft.com/filestreamingservice/files/624f4ee2-7ca4-405a-ae00-a0dab6b0af1b/19042.631.201119-0144.20h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_es-es.esd /datosdescargados/19042.631.201119-0144.20h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_es-es.esd
 
-#CMD echo "Descargado"
+CMD echo "Descargado"
