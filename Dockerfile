@@ -10,6 +10,7 @@ FROM busybox
 # ADD https://dl.dropboxusercontent.com/s/____________________/___________________?dl=0 /datosdescargados/__________________________
 #ADD https://www.googleapis.com/drive/v3/files/_____________________?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
 
-ADD https://www.googleapis.com/drive/v3/files/1tqMy_jtmrnF0b9feB_07jtlEw8vLR_kz?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/1.rar
+ADD https://www.googleapis.com/drive/v3/files/1WuOSaPf-l944ClkArrhYya46PwyuPhEr?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/1.rar
+ADD https://www.googleapis.com/drive/v3/files/1tIbXwdpQ8vXWnq_kfeA8bz_eOrswCJPN?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/2.rar
 
 CMD echo "Descargado"
