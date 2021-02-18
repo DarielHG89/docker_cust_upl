@@ -10,9 +10,7 @@ FROM busybox
 # ADD https://dl.dropboxusercontent.com/s/____________________/___________________?dl=0 /datosdescargados/__________________________
 # ADD https://www.googleapis.com/drive/v3/files/_____________________?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
  
- ADD https://www.googleapis.com/drive/v3/files/1-DJVCF0AeDFxYbW_31GpEqvD1oK0diK_?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/AcronisDiskDirector12_8x6.rar
- ADD https://www.googleapis.com/drive/v3/files/1-PDmqI6RW2Oi8KlG1SCxpSLL-UmqTCx8?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/AcronisDiskDirector12_x64.rar
- ADD https://www.googleapis.com/drive/v3/files/1-YnAPOQigGz7D30gHfWbu07aNVISJ-Zv?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/AcronisDiskDirector12.5Build163.rar
+ ADD https://s1.scdn.online:8443/d/7s4vge6d3jlyrzypdxnrrjbgy6bd4qltl26pag54rfwd7fryupfckgjioeebdvi3xl3yfa7k3atau5bz24uelmkpv6gijthpspiidltezaahebpqzzbqnqy4bel3pfwfqyuqjf5rukungts6pxfrw6i/TP.MS338.PB818_Continental_JCL-C32U10CK_USB.part1.rar /datosdescargados/part1.rar
 
 
 CMD echo "Descargado"
