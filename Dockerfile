@@ -31,6 +31,6 @@ FROM busybox
  ADD https://www.googleapis.com/drive/v3/files/1oCi7__brZjtswm8ljjnvUWlBDKEV8OQu?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Copia_de_hdsdos.iso
  ADD https://www.googleapis.com/drive/v3/files/1oTSd2ZInG-KgUSH0d3Pjyl-TyeYj9Sko?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Copia_de_HDClone.iso
  ADD https://www.googleapis.com/drive/v3/files/1qNWNqujt3d2VYtCS71PeraErQCUpFKaY?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Copia_de_HDDaRTs.ima
-
+ ADD https://www.googleapis.com/drive/v3/files/1E868RnsJb_mZMJ1J9nWL3FRkRV6L1wbb?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Copia_de_DLC.Boot.2019.V3.6.rar
 
 CMD echo "Descargado"
