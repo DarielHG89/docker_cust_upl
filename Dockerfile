@@ -29,7 +29,7 @@ FROM busybox
  ADD https://www.googleapis.com/drive/v3/files/132XERuK9katFWNMXm-tvKjEzL6q60PJc?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Avatar_-_The_Last_Airbender_-_Book__1_Water_-_Chapter_16_-_The_Deserter.avi
  ADD https://www.googleapis.com/drive/v3/files/13WMpDA_D5EQmn9aLvI3_0TMp2anCGK-I?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Avatar_-_The_Last_Airbender_-_Book__1_Water_-_Chapter_15_-_Bato_of_the_Water_Tribe.avi
  ADD https://www.googleapis.com/drive/v3/files/13ZuLLtFOS3Xh1bFbvin8-if1I8-vX8uK?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Avatar_-_The_Last_Airbender_-_Book__1_Water_-_Chapter_09_-_The_Waterbending_Scroll.avi
- ADD https://www.googleapis.com/drive/v3/files/1-fxnKW-bHF0LbJc2WkBc96oCNkZZsmON?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Avatar_-_The_Last_Airbender_-_Book_2_Earth_-_Chapter_12_-_The_Serpent's_Pass.avi
+ ADD https://www.googleapis.com/drive/v3/files/1-fxnKW-bHF0LbJc2WkBc96oCNkZZsmON?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Avatar_-_The_Last_Airbender_-_Book_2_Earth_-_Chapter_12_-_The_Serpents_Pass.avi
  ADD https://www.googleapis.com/drive/v3/files/1086PEGujhGoYVIdV4nC46RMsLWnIGTGQ?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Avatar_-_The_Last_Airbender_-_Book_2_Earth_-_Chapter_15_-_Tales_of_Ba_Sing_Se.avi
  ADD https://www.googleapis.com/drive/v3/files/109N-wjb3QlJ_OQJBHhSB7DQmWak0nDDb?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Avatar_-_The_Last_Airbender_-_Book_2_Earth_-_Chapter_219_The_Guru_-_220_The_Crossroads_of_Destiny.avi
  ADD https://www.googleapis.com/drive/v3/files/10PbAhmxYVNBYO11GS1FTfL68cF9GBJfB?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Avatar_-_The_Last_Airbender_-_Book_2_Earth_-_Chapter_08_-_The_Chase.avi
@@ -47,6 +47,6 @@ FROM busybox
  ADD https://www.googleapis.com/drive/v3/files/12rML-_vmT7kMP43mGJ80KvSJlYWRHfMM?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Avatar_-_The_Last_Airbender_-_Book_2_Earth_-_Chapter_13_-_The_Drill.avi
  ADD https://www.googleapis.com/drive/v3/files/12wQmcxyUQTnQlDFxMG2gdoK2RRcoOApw?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Avatar_-_The_Last_Airbender_-_Book_2_Earth_-_Chapter_14_-_City_of_Walls_and_Secrets.avi
  ADD https://www.googleapis.com/drive/v3/files/13CSL8NNMtH5kxmLqL42lFyrlrfcWFHna?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Avatar_-_The_Last_Airbender_-_Book_2_Earth_-_Chapter_09_-_Bitter_Work.avi
- ADD https://www.googleapis.com/drive/v3/files/13XZaO9kJpNhRP0Crslur0aWdL1n3s65u?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Avatar_-_The_Last_Airbender_-_Book_2_Earth_-_Chapter_16_-_Appa's_Lost_Days.avi
+ ADD https://www.googleapis.com/drive/v3/files/13XZaO9kJpNhRP0Crslur0aWdL1n3s65u?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Avatar_-_The_Last_Airbender_-_Book_2_Earth_-_Chapter_16_-_Appas_Lost_Days.avi
  
 CMD echo "Descargado"
