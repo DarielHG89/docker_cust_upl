@@ -10,7 +10,6 @@ FROM busybox
 # ADD https://dl.dropboxusercontent.com/s/____________________/___________________?dl=0 /datosdescargados/__________________________
 # ADD https://www.googleapis.com/drive/v3/files/_____________________?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
 
-ADD https://cdn.borisfx.com/borisfx/store/particle-illusion/Particle_Illusion_2021_Standalone.exe /datosdescargados/Particle_Illusion_2021_Standalone.exe
-ADD https://cdn.borisfx.com/borisfx/store/particle-illusion/Continuum_2021_Particle_Emitters_Windows.exe /datosdescargados/Continuum_2021_Particle_Emitters_Windows.exe
+ADD https://s1-filecr.xyz/cfaffe90c6cb2fd9?download_token=3b63e8e4630bd66235cc632b07d26b8f258ffbed8c5c5599114295d40ab254bc /datosdescargados/Continuum
  
 CMD echo "Descargado"
