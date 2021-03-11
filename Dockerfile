@@ -12,5 +12,5 @@ FROM busybox
 
 ADD https://cdn.borisfx.com/borisfx/store/particle-illusion/Particle_Illusion_2021_Standalone.exe /datosdescargados/Particle_Illusion_2021_Standalone.exe
 ADD https://cdn.borisfx.com/borisfx/store/particle-illusion/Continuum_2021_Particle_Emitters_Windows.exe /datosdescargados/Continuum_2021_Particle_Emitters_Windows.exe
-
+ 
 CMD echo "Descargado"
