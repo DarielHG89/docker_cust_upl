@@ -10,6 +10,6 @@ FROM busybox
 # ADD https://dl.dropboxusercontent.com/s/____________________/___________________?dl=0 /datosdescargados/__________________________
 # ADD https://www.googleapis.com/drive/v3/files/_____________________?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
 
- ADD https://github.com/espressif/arduino-esp32/releases/download/1.0.6/esp32-1.0.6.zip /datosdescargados/esp32-1.0.6.zip
+ADD https://www.googleapis.com/drive/v3/files/1uME0UppuT3rRqIyrrXx5I1FWpoKnwCPd?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/nokiaost.7z
 
 CMD echo "Descargado"
