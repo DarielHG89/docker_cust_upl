@@ -10,7 +10,7 @@ FROM busybox
 # ADD https://dl.dropboxusercontent.com/s/____________________/___________________?dl=0 /datosdescargados/__________________________
 # ADD https://www.googleapis.com/drive/v3/files/_____________________?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
 
- ADD https://www.googleapis.com/drive/v3/files/1tKmh8iLiVhMU40UzxAEdpz-7GblXCiA6?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/MTKroot 2.4.3-Umidigi-zte-maven-2-android6.0.1.zip
+ ADD https://www.googleapis.com/drive/v3/files/1tKmh8iLiVhMU40UzxAEdpz-7GblXCiA6?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/MTKroot2.4.3-Umidigi-zte-maven-2-android6.0.1.zip
 
 
 CMD echo "Descargado"
