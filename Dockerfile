@@ -10,7 +10,7 @@ FROM busybox
 # ADD https://dl.dropboxusercontent.com/s/____________________/___________________?dl=0 /datosdescargados/__________________________
 # ADD https://www.googleapis.com/drive/v3/files/_____________________?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
 
- ADD https://www.googleapis.com/drive/v3/files/1-CSoLQj6OmYvbosArgKVWVEpo1WWa5nu?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/test.zip
-
-
+ ADD http://releases.openelec.tv/OpenELEC-Generic.x86_64-8.0.4.img.gz /datosdescargados/OpenELEC-Generic.x86_64-8.0.4.img.gz
+ ADD https://releases.libreelec.tv/LibreELEC-Generic.x86_64-9.2.6.img.gz /datosdescargados/LibreELEC-Generic.x86_64-9.2.6.img.gz
+ 
 CMD echo "Descargado"
