@@ -8,9 +8,8 @@ FROM busybox
 
 # url to download ex: ADD https://dl.dropboxusercontent.com /datosdescargados/
 # ADD https://dl.dropboxusercontent.com/s/____________________/___________________?dl=0 /datosdescargados/__________________________
-# ADD https://www.googleapis.com/drive/v3/files/_____________________?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
+# ADD https://www.googleapis.com/drive/v3/files/0B2H9q1T_zsd_aFJUOFN5dDFyd3M?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
 
- ADD http://releases.openelec.tv/OpenELEC-Generic.x86_64-8.0.4.img.gz /datosdescargados/OpenELEC-Generic.x86_64-8.0.4.img.gz
- ADD https://releases.libreelec.tv/LibreELEC-Generic.x86_64-9.2.6.img.gz /datosdescargados/LibreELEC-Generic.x86_64-9.2.6.img.gz
+ADD https://www.googleapis.com/drive/v3/files/0B2H9q1T_zsd_aFJUOFN5dDFyd3M?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/blu_n070.zip
  
 CMD echo "Descargado"
