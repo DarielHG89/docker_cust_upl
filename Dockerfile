@@ -10,6 +10,7 @@ FROM busybox
 # ADD https://dl.dropboxusercontent.com/s/____________________/___________________?dl=0 /datosdescargados/__________________________
 # ADD https://www.googleapis.com/drive/v3/files/____________________________?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
 
-ADD https://downloads.arduino.cc/arduino-ide/arduino-ide_2.0.0-beta.7_Windows_64bit.zip /datosdescargados/arduino-ide_2.0.0-beta.7_Windows_64bit.zip
+ADD https://www.googleapis.com/drive/v3/files/1xsMqONpsC4FctZouK62BJm7nHbAzYJ_b?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Rusticaland-Rust-V2301[WorldRevamp].7z
+ ADD https://www.googleapis.com/drive/v3/files/1fIB6BRvPUQ79OqP70tPgJBjKJ69rqrdr?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/terrariawiki.zip
 
 CMD echo "Descargado"
