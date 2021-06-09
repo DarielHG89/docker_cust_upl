@@ -28,5 +28,5 @@ FROM busybox
  ADD https://www.googleapis.com/drive/v3/files/1coRKicSLNPelttiBRYJzzsrZEVXrRCna?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Copia_de_[SphinxAnime]_21-PEM16ADS46.part3.rar
  ADD https://www.googleapis.com/drive/v3/files/1jdqEVMXUdjQN8KgI0Iz4g6lLo6_FpwtU?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Copia_de_[SphinxAnime]_23-RDA46SAD46.part1.rar
  ADD https://www.googleapis.com/drive/v3/files/1oXBs7JvgeiuHghepate5dqKCRCxG7wnH?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Copia_de_[SphinxAnime]_23-RDA46SAD46.part2.rar
-
+ 
  CMD echo "Descargado"
