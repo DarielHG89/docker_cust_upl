@@ -10,23 +10,18 @@ FROM busybox
 # ADD https://dl.dropboxusercontent.com/s/____________________/___________________?dl=0 /datosdescargados/__________________________
 # ADD https://www.googleapis.com/drive/v3/files/____________________________?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
 
- ADD https://www.googleapis.com/drive/v3/files/1-59uMj-IrSenRVedqzWDiKy1Yo-kGzQY?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/[SphinxAnime]_15-V3C1Y4A6SH4RD.part1.rar
- ADD https://www.googleapis.com/drive/v3/files/1-5swRGm9JeUVMBjUBeB8NVHIBppBFkMp?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/[SphinxAnime]_15-V3C1Y4A6SH4RD.part2.rar
- ADD https://www.googleapis.com/drive/v3/files/1-8Yu3UhdfL1rlyZ1bSedaJbnnpFkTZvG?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/[SphinxAnime]_15-V3C1Y4A6SH4RD.part3.rar
- ADD https://www.googleapis.com/drive/v3/files/1-F0uf1Jagvse1K8lNFUQ8S1XiBiNgjgk?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/[SphinxAnime]_15-V3C1Y4A6SH4RD.part4.rar
- ADD https://www.googleapis.com/drive/v3/files/1-HLllrqs9watIjG-GqQGmrSWMJHWUkBk?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/[SphinxAnime]_15-V3C1Y4A6SH4RD.part5.rar
- ADD https://www.googleapis.com/drive/v3/files/15rElflJsQaTWd5dducm2O6xNbNe7C61L?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Copia_de_[SphinxAnime]_21-PEM16ADS46.part2.rar
- ADD https://www.googleapis.com/drive/v3/files/16m_siGMLYyXwXjGxPR2KhQRaYw2uImPj?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Copia_de_[SphinxAnime]_23-RDA46SAD46.part4.rar
- ADD https://www.googleapis.com/drive/v3/files/18LxEogmNNfHU63VB7kHS7btyHsz69sOk?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Copia_de_[SphinxAnime]_21-PEM16ADS46.part1.rar
- ADD https://www.googleapis.com/drive/v3/files/1GpCqKE4M27spn7B2D2CdIOFV5dmg86vi?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Copia_de_[SphinxAnime]_1-KA6S4DA64.part2.rar
- ADD https://www.googleapis.com/drive/v3/files/1L4fG_EPNhVhQTZh6L0k-TCZhR2RssYBv?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Copia_de_[SphinxAnime]_23-RDA46SAD46.part5.rar
- ADD https://www.googleapis.com/drive/v3/files/1REYmS_5_hZSj5aIPDOnLDE4ZQ_Le4SGP?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Copia_de_[SphinxAnime]_21-PEM16ADS46.part4.rar
- ADD https://www.googleapis.com/drive/v3/files/1S7DIoQuqFBU8UwFR1ilgdwG_CjyQonLJ?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Copia_de_[SphinxAnime]_1-KA6S4DA64.part1.rar
- ADD https://www.googleapis.com/drive/v3/files/1UC_dUVaNjX4ca-8Gld5VkQRhBiX7sFOl?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/[SphinxAnime]_9-IJ4SD64AS.rar
- ADD https://www.googleapis.com/drive/v3/files/1YiuIdI50UE2s8GKR97-ODbzawYgMVcGM?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Copia_de_[SphinxAnime]_1-KA6S4DA64.part3.rar
- ADD https://www.googleapis.com/drive/v3/files/1aUlZNt2mT-WGmaE2fqwkTFuKRi6ewnZq?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Copia_de_[SphinxAnime]_23-RDA46SAD46.part3.rar
- ADD https://www.googleapis.com/drive/v3/files/1coRKicSLNPelttiBRYJzzsrZEVXrRCna?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Copia_de_[SphinxAnime]_21-PEM16ADS46.part3.rar
- ADD https://www.googleapis.com/drive/v3/files/1jdqEVMXUdjQN8KgI0Iz4g6lLo6_FpwtU?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Copia_de_[SphinxAnime]_23-RDA46SAD46.part1.rar
- ADD https://www.googleapis.com/drive/v3/files/1oXBs7JvgeiuHghepate5dqKCRCxG7wnH?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Copia_de_[SphinxAnime]_23-RDA46SAD46.part2.rar
- 
+ ADD https://www.googleapis.com/drive/v3/files/1--J15VtZL5rZ91zKbL3mmsmDetdcSRzg?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/wikipedia_es_all_nopic_2021-03.zim.part4
+ ADD https://www.googleapis.com/drive/v3/files/1-25W8wJzbcwV-oWsYbePhk_zWSK_XSGZ?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/wikipedia_es_all_nopic_2021-03.zim.part6
+ ADD https://www.googleapis.com/drive/v3/files/1-3i9ZiRV96_yx573-IunIVuOLy2BJmG-?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/wikipedia_es_all_mini_2021-05.zim.part2
+ ADD https://www.googleapis.com/drive/v3/files/1-ASUCwdEBvT6lAR3bh-QNx_kCUQc42TZ?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/wikipedia_es_all_nopic_2021-03.zim.part7
+ ADD https://www.googleapis.com/drive/v3/files/1-CuaKcm-YIwz1hCdQZv3EUR8Ycobn26k?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/wikipedia_es_all_nopic_2021-03.zim.part1
+ ADD https://www.googleapis.com/drive/v3/files/1-HhO7-FW0Zwp-__dMJs0p6rIX2flNok9?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/wikipedia_es_all_nopic_2021-03.zim.part2
+ ADD https://www.googleapis.com/drive/v3/files/14rPea55jF0ttgE5cmqqzVpubd7YEzeXz?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/wikipedia_es_all_nopic_2021-03.zim.part3
+ ADD https://www.googleapis.com/drive/v3/files/16NZwdw0yjsMuQC9K43sXcZNi3zYh-wx1?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/wikipedia_es_all_nopic_2021-03.zim.part9
+ ADD https://www.googleapis.com/drive/v3/files/1DPIoxmJtdpwQMTmkxCUARPto2z6UyuiN?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/wikipedia_es_all_nopic_2021-03.zim.part10
+ ADD https://www.googleapis.com/drive/v3/files/1Ktwb5_KRK_hnczM4CFvrXH3bZQTpNEnh?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/wikipedia_es_all_nopic_2021-03.zim.part8
+ ADD https://www.googleapis.com/drive/v3/files/1UHOXk5aAsrkMKpJaPa4mR0qRx9Fe7Vca?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/wikipedia_es_all_mini_2021-05.zim.part3
+ ADD https://www.googleapis.com/drive/v3/files/1WYP4_qntRET8NrNOyg3qCwv_954J-R1X?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/wikipedia_es_all_mini_2021-05.zim.part1
+ ADD https://www.googleapis.com/drive/v3/files/1f6vKIFDS36Cao6z4jyumOMMOxZzzb0ps?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/wikipedia_es_all_nopic_2021-03.zim.part5
+
  CMD echo "Descargado"
