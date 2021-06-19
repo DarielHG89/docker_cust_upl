@@ -12,5 +12,5 @@ FROM busybox
 # ADD ____ /datosdescargados/
 
  ADD https://github.com/asineth0/checkn1x/releases/download/1.1.7/checkn1x-1.1.7.iso /datosdescargados/checkn1x-1.1.7.iso
- 
+   
  CMD echo "Descargado"
