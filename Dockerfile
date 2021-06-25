@@ -11,6 +11,7 @@ FROM busybox
 # ADD https://www.googleapis.com/drive/v3/files/____________________________?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
 # ADD ____ /datosdescargados/
   
- ADD https://github.com/asineth0/checkn1x/releases/download/1.1.7/checkn1x-1.1.7.iso /datosdescargados/checkn1x-1.1.7.iso
-   
+ ADD https://www.googleapis.com/drive/v3/files/1_qu4MgpyZASrOtEyLkhBONX5LrAsHpOE?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/torrent.z01
+ ADD https://www.googleapis.com/drive/v3/files/1vdNqUz2PEsJXh0UAUJ3yemDnZKVw2KWy?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/torrent.zip
+
  CMD echo "Descargado"
