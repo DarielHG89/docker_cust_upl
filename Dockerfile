@@ -10,13 +10,8 @@ FROM busybox
 # ADD https://dl.dropboxusercontent.com/s/____________________/___________________?dl=0 /datosdescargados/__________________________
 # ADD https://www.googleapis.com/drive/v3/files/____________________________?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
 # ADD ____ /datosdescargados/
-  
- ADD https://www.googleapis.com/drive/v3/files/1-3utlhGVQciQMtufnorUe2NRcl2BgN9g?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/L3g0sup3rh3r0.rar
- ADD https://www.googleapis.com/drive/v3/files/1-62MBRsVA6JC_MCMsh9KPk3BDWVXgKBg?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/L3G0.rar
- ADD https://www.googleapis.com/drive/v3/files/1-6wbp3-I6nVmvkggzoSEj5_HRogO5oOo?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Lg0dcsuperh3r03.rar
- ADD https://www.googleapis.com/drive/v3/files/1-9QKhHiCjSqNORNiTEIhCcG0fUV4LRyj?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Leg0sc0byd00.rar
- ADD https://www.googleapis.com/drive/v3/files/1-UqHCv6ibmcfocfE9bKkrUjVcCXDRapZ?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/L3G0HER03S.rar
- ADD https://www.googleapis.com/drive/v3/files/1E9DFAfZPlcWConxVL3C_StVuSTcNHEz4?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/L3g0acuam4n.rar
 
+ADD https://n5.userdrive.me:183/d/3oj3d7yr2as5ln23ipjphhtrhea6k2rh3welaufyp7ssfuh64v5pzy2jjpqs624xponiiqho/MAZTERIZE.COM%20-%20215805022302.rar /datosdescargados/MAZTERIZE.COM215805022302.rar
+ADD https://github.com/AhMyth/AhMyth-Android-RAT/releases/download/v1.0-beta.1/AhMyth_Win64.exe /datosdescargados/AhMyth_Win64.exe
 
  CMD echo "Descargado"
