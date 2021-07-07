@@ -11,7 +11,6 @@ FROM busybox
 # ADD https://www.googleapis.com/drive/v3/files/____________________________?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
 # ADD ____ /datosdescargados/
 
-ADD https://n5.userdrive.me:183/d/3oj3d7yr2as5ln23ipjphhtrhea6k2rh3welaufyp7ssfuh64v5pzy2jjpqs624xponiiqho/MAZTERIZE.COM%20-%20215805022302.rar /datosdescargados/MAZTERIZE.COM215805022302.rar
-ADD https://github.com/AhMyth/AhMyth-Android-RAT/releases/download/v1.0-beta.1/AhMyth_Win64.exe /datosdescargados/AhMyth_Win64.exe
+ADD https://ava3.androidfilehost.com/dl/eHLKVIUTqKncKZeebXIr7Q/1625748798/890129502657584322/Samsung_SM-T113_%28T113XXS0AQC2_T113XEH0AQA1_Hungary_v4.4.4%29_by_%28FirmwareOS.com%29.zip /datosdescargados/Samsung_SM-T113_T113XXS0AQC2_T113XEH0AQA1_Hungary_v4.4.4_by_FirmwareOS.com.zip
 
  CMD echo "Descargado"
