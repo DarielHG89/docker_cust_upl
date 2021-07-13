@@ -11,6 +11,6 @@ FROM busybox
 # ADD https://www.googleapis.com/drive/v3/files/____________________________?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
 # ADD ____ /datosdescargados/
 
-ADD https://ava3.androidfilehost.com/dl/eHLKVIUTqKncKZeebXIr7Q/1625748798/890129502657584322/Samsung_SM-T113_%28T113XXS0AQC2_T113XEH0AQA1_Hungary_v4.4.4%29_by_%28FirmwareOS.com%29.zip /datosdescargados/Samsung_SM-T113_T113XXS0AQC2_T113XEH0AQA1_Hungary_v4.4.4_by_FirmwareOS.com.zip
+ADD https://www.googleapis.com/drive/v3/files/18Rg4V_eWmmQc4H16rRLacBvwhRV7BjbJ?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/MythicManor-0.17-pc.zip
 
  CMD echo "Descargado"
