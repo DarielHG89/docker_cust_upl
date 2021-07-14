@@ -11,6 +11,5 @@ FROM busybox
 # ADD https://www.googleapis.com/drive/v3/files/____________________________?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
 # ADD ____ /datosdescargados/
 
-ADD https://www.googleapis.com/drive/v3/files/18Rg4V_eWmmQc4H16rRLacBvwhRV7BjbJ?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/MythicManor-0.17-pc.zip
 
  CMD echo "Descargado"
