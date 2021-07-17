@@ -11,5 +11,5 @@ FROM busybox
 # ADD https://www.googleapis.com/drive/v3/files/____________________________?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
 # ADD ____ /datosdescargados/
 
-
+ADD https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tautvydasderzinskas/vsextensions/vscode-html-to-css/1.2.0/vspackage /datosdescargados/tautvydasderzinskas.vscode-html-to-css-1.2.0.vsix
  CMD echo "Descargado"
