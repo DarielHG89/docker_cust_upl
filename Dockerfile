@@ -11,9 +11,12 @@ FROM busybox
 # ADD https://www.googleapis.com/drive/v3/files/____________________________?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
 # ADD ____ /datosdescargados/
 
- ADD https://www.googleapis.com/drive/v3/files/1-1SMNaUmWbisMXNJOSvNErtjjEF6T0ru?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Windows11ProInsiderPreview.10.0.22000.65.x64.Multilanguage.v.taiwebs.comab
- ADD https://www.googleapis.com/drive/v3/files/1-5SJ7K0XFbACF3kHWp63lsuVBr9fvqIW?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Windows11ProInsiderPreview.10.0.22000.65.x64.Multilanguage.v.taiwebs.comac
- ADD https://www.googleapis.com/drive/v3/files/1-5Twv2oHz2maVW5Fv_WDwbsAgticFBj9?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Windows11ProInsiderPreview.10.0.22000.65.x64.Multilanguage.v.taiwebs.comad
- ADD https://www.googleapis.com/drive/v3/files/1-6HC_AWUZ_SmusH4QURef7af0soIoBST?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Windows11ProInsiderPreview.10.0.22000.65.x64.Multilanguage.v.taiwebs.comae
- ADD https://www.googleapis.com/drive/v3/files/1xZO86qxKRUie4Nrbga-1BQMlaCgxpSIN?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Windows11ProInsiderPreview.10.0.22000.65.x64.Multilanguage.v.taiwebs.comaa
- CMD echo "Descargado"
+ ADD https://www.googleapis.com/drive/v3/files/1--GZSghqNadZVyEBpQFvzMDd3nubCNkk?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/torrents.z02
+ ADD https://www.googleapis.com/drive/v3/files/1-06qHFCmjAFX-L86QJPFcLS7c12EkuAB?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/torrents.z03
+ ADD https://www.googleapis.com/drive/v3/files/1-5Ly-_3jF_bsEGF2dxnw8ybUmSjgXHNv?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/torrents.z04
+ ADD https://www.googleapis.com/drive/v3/files/1-5Zk8CNKSslhvrGvs8Z4k6ohJHQxV-ld?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/torrents.z05
+ ADD https://www.googleapis.com/drive/v3/files/1-7C5Gc0cfLZorpxLGLEOVAI-lkMJwUSW?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/torrents.z06
+ ADD https://www.googleapis.com/drive/v3/files/1-7TFGhiwBvsjk35xY8OcKveWlU_oyqiD?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/torrents.zip
+ ADD https://www.googleapis.com/drive/v3/files/1qLaba_aEJ3-WMLSQ4L3OslUFeJhYPMN1?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/torrents.z01
+
+CMD echo "Descargado"
